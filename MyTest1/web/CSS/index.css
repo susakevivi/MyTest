@@ -1,0 +1,13 @@
+.mydiv{
+	width:60px;
+	heitht:30px;
+	background-color:green;	
+}
+.mydiv a{
+	color:red;	
+	font-style:italic;
+}
+.mydiv span{
+	font-style:inherit;
+	color:yellow;	
+}
